@@ -1,0 +1,118 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "slug": "the-great-gatsby",
+      "description": "A classic novel set in the Roaring Twenties, exploring themes of wealth, love, and the American Dream.",
+      "img": "https://images.unsplash.com/photo-1629992101753-56d196c8aabb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ym9vayUyMGNvdmVyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "slug": "to-kill-a-mockingbird",
+      "description": "A powerful story about racial injustice and moral growth, set in the American South during the 1930s.",
+      "img": "https://images.unsplash.com/photo-1633477189729-9290b3261d0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJvb2slMjBjb3ZlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "slug": "1984",
+      "description": "A dystopian novel that explores the dangers of totalitarianism and the loss of individual freedoms.",
+      "img": "https://i.pinimg.com/564x/bd/29/34/bd293499ee09b8fa4182f2ae24d83133.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "slug": "pride-and-prejudice",
+      "description": "A classic romantic novel that satirizes societal expectations and explores themes of love and class.",
+      "img": "https://images.unsplash.com/photo-1542871793-fd7e2b3cd0b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJvb2slMjBjb3ZlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "5",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "slug": "the-catcher-in-the-rye",
+      "description": "A coming-of-age novel that follows the experiences of a disenchanted teenager in New York City.",
+      "img": "https://i.pinimg.com/564x/39/77/bd/3977bd9feb61200a99b32514704ca6ee.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Harry Potter",
+      "author": "J.K. Rowling",
+      "slug": "harry-potter-sorcerers-stone",
+      "description": "The first book in the beloved fantasy series that follows the adventures of a young wizard, Harry Potter.",
+      "img": "https://img.freepik.com/free-vector/abstract-elegant-winter-book-cover_23-2148798745.jpg?w=740&t=st=1706381327~exp=1706381927~hmac=8439791e3dcd2b7d7b7bffca389e4e3bf33bf034dfaace75df9a7de892a695b7"
+    },
+    {
+      "id": "7",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-hobbit",
+      "description": "A fantasy novel that serves as a prelude to the epic trilogy 'The Lord of the Rings,' featuring the adventures of Bilbo Baggins.",
+      "img": "https://i.pinimg.com/236x/b3/da/6c/b3da6c61f387e12ada45eb885552f00d.jpg"
+    },
+    {
+      "id": "8",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "slug": "the-da-vinci-code",
+      "description": "A mystery thriller that explores art, religion, and secret societies, featuring the character Robert Langdon.",
+      "img": "https://i.pinimg.com/564x/a1/f8/87/a1f88733921c820db477d054fe96afbb.jpg"
+    },
+    {
+      "id": "9",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "slug": "the-hunger-games",
+      "description": "A dystopian novel set in a post-apocalyptic world where teenagers are forced to participate in a televised survival competition.",
+      "img": "https://i.pinimg.com/564x/35/c6/12/35c612e061908c0df32b1ea11ffb9c90.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The Hitchhiker's Guide",
+      "author": "Douglas Adams",
+      "slug": "hitchhikers-guide-to-the-galaxy",
+      "description": "A comedic science fiction series that follows the misadventures of an unwitting human, Arthur Dent, as he travels through space.",
+      "img": "https://images.unsplash.com/photo-1576616569455-d2a9127ae8c1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJvb2slMjBjb3ZlciUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ],
+  "author": [
+    {
+      "id": "1",
+      "name": "kyaw kyaw"
+    },
+    {
+      "id": "2",
+      "name": "chit chit"
+    },
+    {
+      "id": "3",
+      "name": "hla hla"
+    }
+  ],
+  "user": [
+    {
+      "id": "a728",
+      "username": "Alice",
+      "email": "alice@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "345d",
+      "username": "Bob",
+      "email": "bob@gmail.com",
+      "password": "654321"
+    },
+    {
+      "id": "a15f",
+      "username": "TT",
+      "email": "tt@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
